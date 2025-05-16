@@ -133,3 +133,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
+
+
+## 🚀 Live Preview
+
+[Click here to see the live preview!](https://gehad-is-the-best.vercel.app/)
